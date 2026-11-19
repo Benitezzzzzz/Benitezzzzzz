@@ -1,17 +1,17 @@
-<h1 align="center">Oi, eu sou o Benitez 👋</h1>
+<h1 align="center">Olá, me chamo Benitez 👋</h1>
 
 <p align="center">
-  Especialista técnico em integrações de marketplace e ERP · Estudante de ADS · Desenvolvedor em formação
+  Técnico de Suporte Nível 4 na Softcom Tecnologia · Marketplace e ERP · Estudante de ADS
 </p>
 
 ---
 
 ### Sobre mim
 
-- 💼 Trabalho como especialista técnico na **Softcom Tecnologia**, com foco em integrações de marketplace (Mercado Livre, NuvemShop, Plug4Market) e suporte a ERP
-- 🧾 No dia a dia: diagnóstico de integrações entre sistemas, documentos fiscais (NF-e, NFS-e) e muito **SQL**
+Atuo atualmente como **Técnico de Suporte a Usuários via Chat Nível 4** na equipe de especialistas da **Softcom Tecnologia**, com foco principal nos atendimentos voltados a marketplace e no suporte ao ERP.
+
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🌱 Hoje estudando: Python com FastAPI, React com TypeScript e deploy em nuvem
+- 🌱 Hoje estudo: Engenharia de Software, Programação Básica e as atualizações das tecnologias de uso geral
 - 🛠️ Gosto de transformar problema do dia a dia em ferramenta: os projetos abaixo nasceram assim
 
 ### Projetos
@@ -19,7 +19,7 @@
 | Projeto | O que é | Stack |
 |---|---|---|
 | 🛒 [**Lista do Mercado**](https://github.com/Benitezzzzzz/Supermarket-list) | Lista de compras compartilhada em tempo real, instalável no celular e funcionando offline dentro do mercado. [Ver no ar](https://lista-mercado.benitez.workers.dev) | React, TypeScript, Vite, PWA, Hono, Cloudflare Workers, D1 |
-| 📊 **API Monitor** *(privado)* | Painel que centraliza o monitoramento das integrações de marketplace, juntando dados da API, Azure Service Bus e Supabase para achar falhas e atrasos rápido | Python, FastAPI, PostgreSQL/Supabase, Azure, Docker |
+| 📊 **API Monitor** *(privado)* | Painel de centralização e monitoramento geral de todo o uso de marketplace no ERP da Softcom e de todas as integrações via API que envolvem o marketplace. Acompanha a API de marketplace e as filas do Azure Service Bus para identificar falhas, atrasos e comportamentos anormais | Python, FastAPI, PostgreSQL, Azure Service Bus, Docker |
 
 ### Tecnologias
 
