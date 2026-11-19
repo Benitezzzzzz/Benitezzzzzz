@@ -2,7 +2,7 @@
 
 ### Técnico de Suporte N4 na Softcom Tecnologia & Estudante de Análise e Desenvolvimento de Sistemas
 
-Movido a resolver problemas: entendo como os sistemas conversam entre si, acho onde a integração quebrou e transformo o que se repete no dia a dia em ferramenta.
+Movido a resolver problemas sempre realizando análises de como os sistemas conversam entre si encontrando onde a integração quebrou e transformo o que se repete no dia a dia em ferramenta.
 
 <img src="https://img.shields.io/badge/Discord-renanzzzz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: renanzzzz">
 <a href="mailto:renanbenandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
