@@ -14,7 +14,7 @@ Movido a resolver problemas: entendo como os sistemas conversam entre si, acho o
 ### 👨‍💻 Sobre Mim
 
 - 💼 **Atuação:** Técnico de Suporte a Usuários via Chat Nível 4 na equipe de especialistas da **Softcom Tecnologia**, com foco em atendimentos de **marketplace** e suporte ao **ERP**.
-- 🔌 **No dia a dia:** diagnóstico de integrações com **Mercado Livre**, **NuvemShop** e **Plug4Market**, documentos fiscais (**NF-e** e **NFS-e**) e muito **SQL**.
+- 🔌 **No dia a dia:** análises de **banco de dados** com **SQL**, análises **fiscais** (**NF-e** e **NFS-e**), **suporte ao cliente** e diagnóstico de integrações de marketplace com **Mercado Livre**, **NuvemShop** e **Plug4Market**.
 - 🎓 **Formação:** cursando **Análise e Desenvolvimento de Sistemas**.
 - 📚 **Hoje estudo:** **Engenharia de Software**, **Programação Básica** e as atualizações das tecnologias de uso geral.
 - 🚀 **Projetos:** criador da [Lista do Mercado](https://github.com/Benitezzzzzz/Supermarket-list) (lista de compras em tempo real com React e Cloudflare Workers) e do **API Monitor** (painel de monitoramento das integrações de marketplace com Python e Azure Service Bus).
