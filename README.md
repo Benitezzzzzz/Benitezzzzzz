@@ -1,8 +1,10 @@
-## Olá 👋! Me chamo [Renan Benitez](https://github.com/Benitezzzzzz)
+# Olá 👋! Me chamo [Renan Benitez](https://github.com/Benitezzzzzz)
 
 ### Técnico de Suporte N4 na Softcom Tecnologia & Estudante de Análise e Desenvolvimento de Sistemas
 
 Movido a resolver problemas: entendo como os sistemas conversam entre si, acho onde a integração quebrou e transformo o que se repete no dia a dia em ferramenta.
+
+<a href="mailto:renanbenandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&vCenter=true&width=520&lines=Marketplace+%2B+ERP+%2B+APIs;SQL+no+dia+a+dia;Aprendendo+Python%2C+React+e+TypeScript" alt="Marketplace, ERP, APIs e SQL">
 
@@ -38,6 +40,6 @@ Movido a resolver problemas: entendo como os sistemas conversam entre si, acho o
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Benitezzzzzz&show_icons=true&count_private=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="165" src="https://streak-stats.demolab.com?user=Benitezzzzzz&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benitezzzzzz&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
 </p>
