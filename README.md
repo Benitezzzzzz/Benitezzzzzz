@@ -4,6 +4,7 @@
 
 Movido a resolver problemas: entendo como os sistemas conversam entre si, acho onde a integração quebrou e transformo o que se repete no dia a dia em ferramenta.
 
+<img src="https://img.shields.io/badge/Discord-renanzzzz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: renanzzzz">
 <a href="mailto:renanbenandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&vCenter=true&width=520&lines=Marketplace+%2B+ERP+%2B+APIs;SQL+no+dia+a+dia;Aprendendo+Python%2C+React+e+TypeScript" alt="Marketplace, ERP, APIs e SQL">
